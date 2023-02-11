@@ -1,3 +1,2 @@
-HI 
-HELLO
-HOW ARE  YOU??
+hi 
+bye
